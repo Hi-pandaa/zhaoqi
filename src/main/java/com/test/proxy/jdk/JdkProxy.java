@@ -2,6 +2,7 @@ package com.test.proxy.jdk;
 
 import com.test.proxy.model.User;
 import com.test.proxy.model.UserImpl;
+import org.openjdk.jol.info.ClassLayout;
 
 import java.lang.reflect.Proxy;
 

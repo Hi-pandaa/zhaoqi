@@ -1,4 +1,4 @@
-package com.test.thread.join;
+package com.test.thread.sync.join;
 
 /**
  * 2 * @Author: zhaoqi

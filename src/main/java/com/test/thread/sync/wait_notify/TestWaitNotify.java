@@ -1,4 +1,4 @@
-package com.test.thread.wait_notify;
+package com.test.thread.sync.wait_notify;
 
 /**
  * 2 * @Author: zhaoqi

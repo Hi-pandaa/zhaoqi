@@ -9,7 +9,7 @@
         <module name="zhaoqi" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="zhaoqi" target="1.6" />
     </bytecodeTargetLevel>
   </component>

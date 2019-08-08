@@ -1,4 +1,4 @@
-package com.temp.spring.beanfactory;
+package com.temp.spring.ioc;
 
 /**
  * 2 * @Author: zhaoqi

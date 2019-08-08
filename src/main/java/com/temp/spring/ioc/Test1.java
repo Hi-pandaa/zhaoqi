@@ -1,4 +1,4 @@
-package com.temp.spring.beanfactory;
+package com.temp.spring.ioc;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
@@ -10,11 +10,11 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 public class Test1 {
 
     public static void main(String[] args) {
-/*
+
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(BeanConfig.class);
         BeanTest bean = context.getBean(BeanTest.class);
 
-        System.out.println(bean.getClass());*/
+        System.out.println(bean.getClass());
 
         System.out.println(Integer.MAX_VALUE+Integer.MAX_VALUE+1);
 
